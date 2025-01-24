@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function G() {
+export default function () {
   return (
     <div>
       <h1></h1>
