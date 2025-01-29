@@ -5,6 +5,7 @@ export default function ContactList() {
     <div>
      <div></div>
       <div></div>
+      <div></div>
     </div>
   );
 }
